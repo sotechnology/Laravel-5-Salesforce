@@ -1,5 +1,5 @@
 {
-  "name": "sotechnology/laravel5-salesforce",
+  "name": "davispeixoto/laravel5-salesforce",
   "description": "Laravel 5 Salesforce Force.com PHP Toolkit port",
   "keywords": [
     "laravel",
@@ -27,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Davispeixoto\\Laravel5Salesforce\\": "src/Davispeixoto/Laravel5Salesforce"
+      "Sotechnology\\Laravel5Salesforce\\": "src/Sotechnology/Laravel5Salesforce"
     }
   },
   "minimum-stability": "dev"
